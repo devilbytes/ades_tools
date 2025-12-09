@@ -39,7 +39,6 @@
 - 🔍 **Advanced Search** - Search products by name, category, brand, and SKU
 - 🏷️ **Dynamic Categories** - Multi-level category and subcategory navigation
 - 📦 **Product Variants** - Multiple variants per product (size, color, specifications)
-- 🔎 **Image Zoom** - Amazon-style image zoom on product details
 - 🎥 **Video Integration** - Product videos with popup player
 - 💰 **Price Visibility** - Login-required pricing system
 - 🛍️ **Shopping Cart** - Real-time cart management
@@ -119,7 +118,6 @@ This is a **client project** developed for a hardware and tools e-commerce busin
 
 ### 🎨 Design Highlights
 - Clean, professional UI/UX design
-- Amazon-inspired product detail pages
 - Responsive design for all devices
 - Dark mode support
 - Smooth animations and transitions
@@ -150,7 +148,6 @@ This is a **client project** developed for a hardware and tools e-commerce busin
 ### 3. **Image Management**
 - Multiple images per product
 - Bulk image upload
-- Amazon-style image zoom
 - Vertical thumbnail navigation
 
 ### 4. **Video Integration**
